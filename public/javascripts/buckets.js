@@ -1,0 +1,1 @@
+fetch('/bucketslist',).then(function(response) {console.log(response)}).catch(function(err) {consol.log(err)})
